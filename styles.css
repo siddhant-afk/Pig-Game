@@ -164,3 +164,7 @@ main {
 .player--winner .name {
   background-color: #c7365f;
 }
+
+.hidden {
+  display: none;
+}
